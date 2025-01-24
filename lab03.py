@@ -44,5 +44,5 @@ for j in range(1 , 21 , 22):
      print("Its a tie!")
 
      if j != 11:
-         print(f"\n Battle concluded after 20 rounds!")
+         print(f"\n Battle concluded after 20 rounds!")git
 
